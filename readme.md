@@ -1,4 +1,4 @@
-# Kdenlive Beat Finder
+# Kdenlive Beat Detection
 
 This script analyzes audio files, detects beats, and generates timeline guides for use in video editing software like Kdenlive. It supports both single-file and batch processing modes and is highly configurable to suit various audio analysis needs.
 
