@@ -1,0 +1,11 @@
+
+*.txt
+*.log
+
+# audio
+*.mp3
+*.wav
+*.flac
+
+# aider
+*aider.*
