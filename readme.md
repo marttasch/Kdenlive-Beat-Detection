@@ -33,7 +33,7 @@ python beatfinder.py [options]
 
 ### Arguments
 
-- `input_file` (optional): Path to the audio file for single mode. Leave blank for batch mode.
+- `input_file` (optional): Path to the audio file for single mode.
 - `--output_file`: Path to the output file for single mode. Defaults to `<input_file>_beats.txt`.
 - `--bpm`: Initial BPM guess (float, beats per minute). Optional.
 - `--offset`: Offset to add to beat times (default: `0:00:0`). Format: `HH:MM:SS`.
